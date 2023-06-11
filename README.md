@@ -1,7 +1,5 @@
-# My application Introduce
-The TanbiSO is a open code software as BL(Boy's Love) fanfiction or independence fiction creation platform , And Your can republic your literature in anywhere and any time. If you use is application you can't feel unrest or shame , Because it is only for BL. You can bold your literature in this platform.
-# How to use ?
-First at all,You should know the two edition branch of TanBiSO Client,The one is official edition:It will connect the official platform server;and other is third party edition: this edition change though the offical code. so you'd better cautious running!
+# Introducing My Application:
+TanbiSO is an open-source software platform for BL (Boys' Love) fanfiction and independent fiction creation. You can freely publish your literature anywhere and at any time using this application. By using this platform, you can feel at ease and proud, as it is exclusively for BL content. You can showcase your literature boldly on this platform.
 
-
- 
+# How to Use:
+First of all, you should be aware of the two editions of the TanBiSO Client. The first one is the official edition, which connects to the official platform server. The other one is the third-party edition, modified based on the official code. Exercise caution while using the third-party edition.
